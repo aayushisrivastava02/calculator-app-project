@@ -9,7 +9,7 @@
     <img src="https://user-images.githubusercontent.com/50744056/226798917-c7ef76c7-c568-49a1-a7cd-e040efc594fb.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">My ReactJS Pocket Calculator</h3>
+  <h3 align="center">My  MacOS scientic Calculator</h3>
 
   <p align="center">
     Your already familiar iPhone calculator right on the Web!
